@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form label,
+form input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form input {
+    width: 100%;
+    padding: 8px;
+}
+
+form input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.activity-item {
+    background-color: #ff6600;
+    border: 1px solid #967BB6;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.activity-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.activity-item h2 {
+    border: 200px #fff
+    margin-bottom: 5px;
+}
+
+.activity-item p {
+    margin: 5px 0;
+}

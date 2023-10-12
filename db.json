@@ -1,0 +1,46 @@
+{
+  "activities": [
+    {
+      "id": 3,
+      "name": "Swimming",
+      "duration": "1 hour",
+      "date": "2023-09-16"
+    },
+    {
+      "id": 4,
+      "name": "Running",
+      "duration": "45 minutes",
+      "date": "2023-09-16"
+    },
+    {
+      "id": 5,
+      "name": "Weight Lifting",
+      "duration": "1.5 hours",
+      "date": "2023-09-17"
+    },
+    {
+      "id": "6",
+      "name": "Jogging",
+      "duration": "45 minutes ",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "12",
+      "name": "mountain climb",
+      "duration": "45 minutes ",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "15",
+      "name": "ride bike ",
+      "duration": "45 minutes ",
+      "date": "2023-12-15"
+    },
+    {
+      "name": "Goat riding",
+      "duration": "10 minutes",
+      "date": "2080-10-15",
+      "id": "20"
+    }
+  ]
+}

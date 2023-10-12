@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Activities</title>
+    <link rel="stylesheet" href="main.css"> <!-- Added link to main.css -->
+</head>
+
+<body>
+    <form>
+        <h1>FITNESS TRACKER</h1>
+        <label for="activityId">Activity ID:</label>
+        <input type="text" id="activityId" name="activityId" required><br><br>
+
+        <label for="activityName">Activity Name:</label>
+        <input type="text" id="activityName" name="activityName" required><br><br>
+
+        <label for="activityDuration">Duration:</label>
+        <input type="text" id="activityDuration" name="activityDuration" required><br><br>
+
+        <label for="activityDate">Date:</label>
+        <input type="date" id="activityDate" name="activityDate" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <div id="activity-list"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
